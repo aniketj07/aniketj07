@@ -1,3 +1,4 @@
+![logo](https://github.com/aniketj07/aniketj07/blob/main/aniket.jpg)
 <h1 align="center">Hi 👋, I'm Aniket Jawanjal</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
