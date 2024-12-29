@@ -12,8 +12,6 @@
 
 - 👨‍💻 All of my projects are available at [https://www.linkedin.com/in/aniket-jawanjal-388955270](https://www.linkedin.com/in/aniket-jawanjal-388955270)
 
-- 💬 Ask me about **react.js,javascript,css**
-
 - 📫 How to reach me **aniketjawanjal44@gmail.com**
 
 - ⚡ Fun fact **i am funny**
